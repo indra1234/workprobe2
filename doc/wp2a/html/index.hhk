@@ -1,0 +1,258 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html"><param name="Name" value="8051.H"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a5831b5b1c4360ee5c04951bdc4988584"><param name="Name" value="ADC0804_Read"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ac038dcdec33cc4ec4e81a459e96f8407"><param name="Name" value="ADC_CLK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a9a11f8ccea0fbdf00bdab457ac8c3dfc"><param name="Name" value="ADC_DATA"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a681399d1df0daa37bbf73989dec35eef"><param name="Name" value="ADC_RD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a62619414928e735e1cad685b6c58b521"><param name="Name" value="ADC_WR"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a63e5f99e63a3c7da18e133484c39d437"><param name="Name" value="BUZZER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a3ee020e35578dc5ad6b7bca4cac7a962"><param name="Name" value="COLUMN1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a8d8a13298a9e0c21f8d6efe79e8c28c5"><param name="Name" value="COLUMN10"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a8cfd86f96331ecf8213883e444e9d5d9"><param name="Name" value="COLUMN11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a9ce5bbc4261bf0c74185e8e05256a232"><param name="Name" value="COLUMN12"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ae167fe9c3ae517ab2f1b798fa8039b87"><param name="Name" value="COLUMN13"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a42b0f4a60aeb2da5c03e407bfe19637e"><param name="Name" value="COLUMN14"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a758b0af4cc2b05cf3e6f3f039beba9cd"><param name="Name" value="COLUMN15"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ab5208b47064ca77c83010ad7905a2062"><param name="Name" value="COLUMN16"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a038c9e790ec4a8d9c58731646099cfb0"><param name="Name" value="COLUMN2"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#aa1f5ecc2f7755b935441ce0ff2b0bca3"><param name="Name" value="COLUMN3"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ae076b9ba506b3e89665ae9623e0085aa"><param name="Name" value="COLUMN4"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#af0c0e0a623037de3e9f6fb483bd218fe"><param name="Name" value="COLUMN5"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a1c3c0790204cc09e240052dfe29b545e"><param name="Name" value="COLUMN6"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ac3303221a1f9d63ab28c8225f8fe91b8"><param name="Name" value="COLUMN7"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a769b8167ed71915bd34d266c5adffcb7"><param name="Name" value="COLUMN8"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ae8eb7e6c89ed9f79f73fbbd1421c5e6e"><param name="Name" value="COLUMN9"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a7271886445ad32e7d27200a8457ba37b"><param name="Name" value="Delay"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a80476fe99ca27341697f034c6c7bdd47"><param name="Name" value="LCD_BUSY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a90345f8c5c020b301b7cc585237485b9"><param name="Name" value="LCD_Clear"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a28735c052c54fa576f8f6f8bca963fe4"><param name="Name" value="LCD_Command"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ac1d1e417774315839e0a3f2af07a7fdb"><param name="Name" value="LCD_Data"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a8f301cf95b5dbc7ebf5caf197595992a"><param name="Name" value="LCD_DATA"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a986ea00658215a5383e1704cfbab0384"><param name="Name" value="LCD_Decimal"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ac0e4b73fbf4bc905c14f4f2c0c903ffe"><param name="Name" value="LCD_EN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#aa140b8f47dc60b0b3f742c4630425a0b"><param name="Name" value="LCD_Hex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#aa53c9d40f3aa552a9974cd55ac510cb3"><param name="Name" value="LCD_Init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a8591c4b66f8a9f8daa141f85fa525aa7"><param name="Name" value="LCD_Int16"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a5799edeaf5ede6c962f8eda9922bfd00"><param name="Name" value="LCD_RS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a076ca58d3a9905e86133838b2f56596c"><param name="Name" value="LCD_RW"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ae36de2acf4d99f673dc8f153e3b3967d"><param name="Name" value="LCD_String"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a959a1f894e15c57f4e0f5ea97e423254"><param name="Name" value="LCD_wait"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a4c0102b3d63c7bd2d59a424ca3815ad1"><param name="Name" value="LINE1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a259e96afd23afb9e2fd9e97d5e07193c"><param name="Name" value="LINE2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="adc_8c.html"><param name="Name" value="adc.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a5831b5b1c4360ee5c04951bdc4988584"><param name="Name" value="ADC0804_Read"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ac038dcdec33cc4ec4e81a459e96f8407"><param name="Name" value="ADC_CLK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a9a11f8ccea0fbdf00bdab457ac8c3dfc"><param name="Name" value="ADC_DATA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a681399d1df0daa37bbf73989dec35eef"><param name="Name" value="ADC_RD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a62619414928e735e1cad685b6c58b521"><param name="Name" value="ADC_WR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a63e5f99e63a3c7da18e133484c39d437"><param name="Name" value="BUZZER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a8d8a13298a9e0c21f8d6efe79e8c28c5"><param name="Name" value="COLUMN10"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a8d8a13298a9e0c21f8d6efe79e8c28c5"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a8d8a13298a9e0c21f8d6efe79e8c28c5"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a8cfd86f96331ecf8213883e444e9d5d9"><param name="Name" value="COLUMN11"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a8cfd86f96331ecf8213883e444e9d5d9"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a8cfd86f96331ecf8213883e444e9d5d9"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a9ce5bbc4261bf0c74185e8e05256a232"><param name="Name" value="COLUMN12"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a9ce5bbc4261bf0c74185e8e05256a232"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a9ce5bbc4261bf0c74185e8e05256a232"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ae167fe9c3ae517ab2f1b798fa8039b87"><param name="Name" value="COLUMN13"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ae167fe9c3ae517ab2f1b798fa8039b87"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ae167fe9c3ae517ab2f1b798fa8039b87"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a42b0f4a60aeb2da5c03e407bfe19637e"><param name="Name" value="COLUMN14"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a42b0f4a60aeb2da5c03e407bfe19637e"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a42b0f4a60aeb2da5c03e407bfe19637e"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a758b0af4cc2b05cf3e6f3f039beba9cd"><param name="Name" value="COLUMN15"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a758b0af4cc2b05cf3e6f3f039beba9cd"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a758b0af4cc2b05cf3e6f3f039beba9cd"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ab5208b47064ca77c83010ad7905a2062"><param name="Name" value="COLUMN16"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ab5208b47064ca77c83010ad7905a2062"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ab5208b47064ca77c83010ad7905a2062"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a3ee020e35578dc5ad6b7bca4cac7a962"><param name="Name" value="COLUMN1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a3ee020e35578dc5ad6b7bca4cac7a962"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a3ee020e35578dc5ad6b7bca4cac7a962"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a038c9e790ec4a8d9c58731646099cfb0"><param name="Name" value="COLUMN2"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a038c9e790ec4a8d9c58731646099cfb0"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a038c9e790ec4a8d9c58731646099cfb0"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#aa1f5ecc2f7755b935441ce0ff2b0bca3"><param name="Name" value="COLUMN3"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#aa1f5ecc2f7755b935441ce0ff2b0bca3"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#aa1f5ecc2f7755b935441ce0ff2b0bca3"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ae076b9ba506b3e89665ae9623e0085aa"><param name="Name" value="COLUMN4"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ae076b9ba506b3e89665ae9623e0085aa"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ae076b9ba506b3e89665ae9623e0085aa"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#af0c0e0a623037de3e9f6fb483bd218fe"><param name="Name" value="COLUMN5"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#af0c0e0a623037de3e9f6fb483bd218fe"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#af0c0e0a623037de3e9f6fb483bd218fe"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a1c3c0790204cc09e240052dfe29b545e"><param name="Name" value="COLUMN6"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a1c3c0790204cc09e240052dfe29b545e"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a1c3c0790204cc09e240052dfe29b545e"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ac3303221a1f9d63ab28c8225f8fe91b8"><param name="Name" value="COLUMN7"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ac3303221a1f9d63ab28c8225f8fe91b8"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ac3303221a1f9d63ab28c8225f8fe91b8"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a769b8167ed71915bd34d266c5adffcb7"><param name="Name" value="COLUMN8"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a769b8167ed71915bd34d266c5adffcb7"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a769b8167ed71915bd34d266c5adffcb7"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ae8eb7e6c89ed9f79f73fbbd1421c5e6e"><param name="Name" value="COLUMN9"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ae8eb7e6c89ed9f79f73fbbd1421c5e6e"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ae8eb7e6c89ed9f79f73fbbd1421c5e6e"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a7271886445ad32e7d27200a8457ba37b"><param name="Name" value="Delay"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a7271886445ad32e7d27200a8457ba37b"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a7271886445ad32e7d27200a8457ba37b"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a313803477b83b7faafafcd2546d8fdc0"><param name="Name" value="i"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html"><param name="Name" value="justmisra.H"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a3ee020e35578dc5ad6b7bca4cac7a962"><param name="Name" value="COLUMN1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a8d8a13298a9e0c21f8d6efe79e8c28c5"><param name="Name" value="COLUMN10"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a8cfd86f96331ecf8213883e444e9d5d9"><param name="Name" value="COLUMN11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a9ce5bbc4261bf0c74185e8e05256a232"><param name="Name" value="COLUMN12"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ae167fe9c3ae517ab2f1b798fa8039b87"><param name="Name" value="COLUMN13"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a42b0f4a60aeb2da5c03e407bfe19637e"><param name="Name" value="COLUMN14"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a758b0af4cc2b05cf3e6f3f039beba9cd"><param name="Name" value="COLUMN15"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ab5208b47064ca77c83010ad7905a2062"><param name="Name" value="COLUMN16"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a038c9e790ec4a8d9c58731646099cfb0"><param name="Name" value="COLUMN2"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#aa1f5ecc2f7755b935441ce0ff2b0bca3"><param name="Name" value="COLUMN3"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ae076b9ba506b3e89665ae9623e0085aa"><param name="Name" value="COLUMN4"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#af0c0e0a623037de3e9f6fb483bd218fe"><param name="Name" value="COLUMN5"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a1c3c0790204cc09e240052dfe29b545e"><param name="Name" value="COLUMN6"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ac3303221a1f9d63ab28c8225f8fe91b8"><param name="Name" value="COLUMN7"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a769b8167ed71915bd34d266c5adffcb7"><param name="Name" value="COLUMN8"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ae8eb7e6c89ed9f79f73fbbd1421c5e6e"><param name="Name" value="COLUMN9"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a7271886445ad32e7d27200a8457ba37b"><param name="Name" value="Delay"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a313803477b83b7faafafcd2546d8fdc0"><param name="Name" value="i"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a22714d7eb3f7326c362d408c01e6f566"><param name="Name" value="k"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ac8dd1658e235f174d1cabae5c438943d"><param name="Name" value="LCD_BUSY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ae60d0b62d7eb3fa31266c095d7b3c245"><param name="Name" value="LCD_Clear"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a28735c052c54fa576f8f6f8bca963fe4"><param name="Name" value="LCD_Command"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ac1d1e417774315839e0a3f2af07a7fdb"><param name="Name" value="LCD_Data"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a25e9d818788f36ed74d7c4579f87f2a6"><param name="Name" value="LCD_DATA"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a986ea00658215a5383e1704cfbab0384"><param name="Name" value="LCD_Decimal"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a1640ffbc0d8ec0f7edb04a2b93918072"><param name="Name" value="LCD_EN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#aa140b8f47dc60b0b3f742c4630425a0b"><param name="Name" value="LCD_Hex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#aa53c9d40f3aa552a9974cd55ac510cb3"><param name="Name" value="LCD_Init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a4781e073871c6f27f89b9463ad3a4ed1"><param name="Name" value="LCD_RS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a26089a10ddd59a0dc7283c19ccc02533"><param name="Name" value="LCD_RW"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#af09b370236a8239163308c9297ad7617"><param name="Name" value="LCD_start"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ae36de2acf4d99f673dc8f153e3b3967d"><param name="Name" value="LCD_String"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a057bc503f753ff8171645ba99fd37f9f"><param name="Name" value="LCD_wait"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a4c0102b3d63c7bd2d59a424ca3815ad1"><param name="Name" value="LINE1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a259e96afd23afb9e2fd9e97d5e07193c"><param name="Name" value="LINE2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a22714d7eb3f7326c362d408c01e6f566"><param name="Name" value="k"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a80476fe99ca27341697f034c6c7bdd47"><param name="Name" value="LCD_BUSY"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a80476fe99ca27341697f034c6c7bdd47"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ac8dd1658e235f174d1cabae5c438943d"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a90345f8c5c020b301b7cc585237485b9"><param name="Name" value="LCD_Clear"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a90345f8c5c020b301b7cc585237485b9"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ae60d0b62d7eb3fa31266c095d7b3c245"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a28735c052c54fa576f8f6f8bca963fe4"><param name="Name" value="LCD_Command"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a28735c052c54fa576f8f6f8bca963fe4"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a28735c052c54fa576f8f6f8bca963fe4"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ac1d1e417774315839e0a3f2af07a7fdb"><param name="Name" value="LCD_Data"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a8f301cf95b5dbc7ebf5caf197595992a"><param name="Name" value="LCD_DATA"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a8f301cf95b5dbc7ebf5caf197595992a"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a25e9d818788f36ed74d7c4579f87f2a6"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ac1d1e417774315839e0a3f2af07a7fdb"><param name="Name" value="LCD_Data"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a986ea00658215a5383e1704cfbab0384"><param name="Name" value="LCD_Decimal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a986ea00658215a5383e1704cfbab0384"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a986ea00658215a5383e1704cfbab0384"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ac0e4b73fbf4bc905c14f4f2c0c903ffe"><param name="Name" value="LCD_EN"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ac0e4b73fbf4bc905c14f4f2c0c903ffe"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a1640ffbc0d8ec0f7edb04a2b93918072"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#aa140b8f47dc60b0b3f742c4630425a0b"><param name="Name" value="LCD_Hex"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#aa140b8f47dc60b0b3f742c4630425a0b"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#aa140b8f47dc60b0b3f742c4630425a0b"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#aa53c9d40f3aa552a9974cd55ac510cb3"><param name="Name" value="LCD_Init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#aa53c9d40f3aa552a9974cd55ac510cb3"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#aa53c9d40f3aa552a9974cd55ac510cb3"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a8591c4b66f8a9f8daa141f85fa525aa7"><param name="Name" value="LCD_Int16"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a5799edeaf5ede6c962f8eda9922bfd00"><param name="Name" value="LCD_RS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a5799edeaf5ede6c962f8eda9922bfd00"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a4781e073871c6f27f89b9463ad3a4ed1"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a076ca58d3a9905e86133838b2f56596c"><param name="Name" value="LCD_RW"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a076ca58d3a9905e86133838b2f56596c"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a26089a10ddd59a0dc7283c19ccc02533"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#af09b370236a8239163308c9297ad7617"><param name="Name" value="LCD_start"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ae36de2acf4d99f673dc8f153e3b3967d"><param name="Name" value="LCD_String"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#ae36de2acf4d99f673dc8f153e3b3967d"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#ae36de2acf4d99f673dc8f153e3b3967d"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a959a1f894e15c57f4e0f5ea97e423254"><param name="Name" value="LCD_wait"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a959a1f894e15c57f4e0f5ea97e423254"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a057bc503f753ff8171645ba99fd37f9f"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a4c0102b3d63c7bd2d59a424ca3815ad1"><param name="Name" value="LINE1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a4c0102b3d63c7bd2d59a424ca3815ad1"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a4c0102b3d63c7bd2d59a424ca3815ad1"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a259e96afd23afb9e2fd9e97d5e07193c"><param name="Name" value="LINE2"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="8051_8_h.html#a259e96afd23afb9e2fd9e97d5e07193c"><param name="Name" value="8051.H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="justmisra_8_h.html#a259e96afd23afb9e2fd9e97d5e07193c"><param name="Name" value="justmisra.H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="adc_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667"><param name="Name" value="main"></OBJECT>
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,10 @@
+SET C51INC=C:\Keil\C51\INC\Philips\;C:\Keil\C51\INC\
+SET C51LIB=C:\Keil\C51\LIB
+SET CPU_TYPE=P89V51RD2
+SET CPU_VENDOR=NXP (founded by Philips)
+SET UV2_TARGET=Target 1
+SET CPU_XTAL=0x02625A00
+C:\Keil\C51\BIN\C51.EXE @..\bin\HELLOW~1.__I
+C:\Keil\C51\BIN\A51.EXE @..\bin\STARTUP._ia
+C:\Keil\C51\BIN\BL51.EXE @..\bin\wp2.lnp
+"C:\Keil\C51\BIN\OH51.EXE" "..\bin\wp2" 
